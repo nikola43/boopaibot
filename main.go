@@ -9,7 +9,7 @@ import (
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/nikola43/web3golanghelper/web3helper"
-	pancakeRouter "buytokenspancakegolang/contracts/IPancakeRouter02"
+	pancakeRouter "boopaibot/contracts/IPancakeRouter02"
 )
 
 const (
